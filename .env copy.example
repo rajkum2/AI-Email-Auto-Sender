@@ -1,0 +1,19 @@
+# API Keys
+SENDGRID_API_KEY=your_sendgrid_api_key
+HUBSPOT_API_KEY=your_hubspot_api_key
+PIPEDRIVE_API_KEY=your_pipedrive_api_key
+
+# Model Configuration
+AI_MODEL_NAME=mistralai/Mistral-7B-v0.1
+MODEL_CACHE_DIR=./model_cache
+
+# Email Configuration
+SENDER_EMAIL=your_sender_email@example.com
+DEFAULT_REPLY_TO=your_reply_to@example.com
+
+# Google Sheets Configuration
+GOOGLE_SHEETS_CREDENTIALS=your_google_sheets_credentials_json
+SPREADSHEET_ID=your_spreadsheet_id
+
+# API Configuration
+DEBUG=False 
